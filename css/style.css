@@ -1893,13 +1893,15 @@ fill:goldenrod;
         margin: 0;
         width: 90%;
     }
-    .vedeo-nameb {
-    padding: 0 0 0 40px;
-    }
-   .video-block {
+    .vedeo-name{padding: 0 0 0 40px;}
+    .video-block {
         margin: 0;
         width: 90%;
     }
+    .video-text{width: 100%;
+    padding: 0 0 0 40px;
+box-sizing: border-box;}
+    
     #video-play {
         object-fit: none;
     }
