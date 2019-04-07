@@ -712,7 +712,7 @@ li {
 
 .menu-key {
     display: block;
-    min-width: 120px;
+    width: 120px;
     height: 32px;
     margin: 0 5px;
     border-radius: 3px;
